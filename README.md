@@ -4,7 +4,7 @@
 
 ### Webentwicklung · Automatisierung · KI
 
-Ich entwickle praktische digitale Projekte mit echtem Nutzwert – von Lernplattformen bis zu persönlichen Dashboards.
+Ich entwickle praktische digitale Projekte mit echtem Nutzwert – von Lernplattformen und persönlichen Dashboards bis zu persistenten interaktiven Systemen.
 
 <p>
   <a href="https://github.com/EinsSkill/AzubiPass">
@@ -12,6 +12,9 @@ Ich entwickle praktische digitale Projekte mit echtem Nutzwert – von Lernplatt
   </a>
   <a href="https://github.com/EinsSkill/Kommandozentrale-Cockpit">
     <img src="https://img.shields.io/badge/Kommandozentrale-Cockpit-173f35?style=for-the-badge&labelColor=c9a227" alt="Kommandozentrale Cockpit">
+  </a>
+  <a href="https://github.com/EinsSkill/ECHO-Vaeloria">
+    <img src="https://img.shields.io/badge/ECHO-Vaeloria-173f35?style=for-the-badge&labelColor=c9a227" alt="ECHO – Die Chroniken von Vaeloria">
   </a>
 </p>
 
@@ -54,13 +57,32 @@ Eine technische Quellbasis für ein persönliches Dashboard mit getrennten Daten
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+### ⚔️ ECHO – Die Chroniken von Vaeloria
+
+Ein persistentes, KI-geführtes Dark-Fantasy-RPG, bei dem freie Spielerhandlungen als dauerhafte Ereignisse verarbeitet werden und die Welt ihren Zustand über einzelne Chats hinaus behält.
+
+- freies textbasiertes Rollenspiel
+- persistenter Event- und State-Store
+- Kanon-, Regel- und Beziehungssystem
+- eigenes responsives Lese-Overlay
+- Browser-Sprachausgabe für Szenen
+- öffentliche Technik bei getrenntem privaten Spielstand
+
+<a href="https://github.com/EinsSkill/ECHO-Vaeloria">Projekt ansehen →</a>
+
+</td>
+</tr>
 </table>
 
 ## Woran ich gerade arbeite
 
 - AzubiPass als öffentliches Lernprojekt weiterentwickeln
-- persönliche Systeme übersichtlicher und hilfreicher machen
-- Webentwicklung und Automatisierung praxisnah einsetzen
+- die Kommandozentrale als persönliche Operator-Oberfläche ausbauen
+- ECHO als persistentes KI-geführtes Rollenspiel weiterentwickeln
+- Webentwicklung, Automatisierung und KI praxisnah miteinander verbinden
 - saubere Dokumentation und nachvollziehbare Entwicklungsprozesse
 
 ## Technischer Schwerpunkt
